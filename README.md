@@ -25,5 +25,7 @@ TBD
 ## Related Links
 
 [University of Peradeniya](https://www.pdn.ac.lk/academics/academics.php/)
+
 [Faculty of Engineering](http://eng.pdn.ac.lk/)
+
 [Department of Computer Engineering](http://eng.pdn.ac.lk/)
